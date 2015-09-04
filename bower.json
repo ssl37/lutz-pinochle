@@ -1,0 +1,15 @@
+{
+  "name": "lutz-pinochle",
+  "description": "A web-based pinochle game",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ssl37/lutz_pinochle",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-mocks": "1.4.x",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "angular-route": "~1.3.0"
+  }
+}

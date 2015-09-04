@@ -1,0 +1,12 @@
+[{"val": "Q", "suit": "C"},
+ {"val": "J", "suit": "D"},
+ {"val": "J", "suit": "S"},
+ {"val": "J", "suit": "H"},
+ {"val": "K", "suit": "H"},
+ {"val": "T", "suit": "D"},
+ {"val": "9", "suit": "S"},
+ {"val": "9", "suit": "H"},
+ {"val": "K", "suit": "D"},
+ {"val": "A", "suit": "C"},
+ {"val": "A", "suit": "H"},
+ {"val": "Q", "suit": "S"}]
